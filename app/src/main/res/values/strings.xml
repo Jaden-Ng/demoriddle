@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Riddle</string>
+    <string name="q1">q1</string>
+    <string name="buttonRevealQ1">reveal</string>
+    <string name="buttonRevealQ2">reveal</string>
+    <string name="q2">q2</string>
+</resources>
